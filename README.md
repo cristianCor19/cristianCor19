@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-¡Hola y bienvenidos a mi perfil de GitHub!<br><p aling="justify">Estudiante de ingeniería de sistemas de noveno semestre con habilidades sólidas en desarrollo de<br>software, haciendo énfasis en desarrollo de aplicaciones web. Mi enfoque práctico y capacidad para<br>aprender rápidamente me permiten abordar desafíos complejos con éxito. Busco oportunidades para<br>aplicar mis conocimientos y contribuir a proyectos innovadores, con el objetivo de contribuir al mundo<br>y su vez intercambiar conocimientos y experiencias.</p?
+¡Hola y bienvenidos a mi perfil de GitHub!<br><p align="left">Estudiante de ingeniería de sistemas de noveno semestre con habilidades sólidas en desarrollo de software, haciendo énfasis en desarrollo de aplicaciones web. Mi enfoque práctico y capacidad para aprender rápidamente me permiten abordar desafíos complejos con éxito. Busco oportunidades para aplicar mis conocimientos y contribuir a proyectos innovadores, con el objetivo de contribuir al mundo y su vez intercambiar conocimientos y experiencias.</p>
 
 
 ## 🌐 Redes sociales:
